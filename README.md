@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about music;
 - 📫 How to reach me: I live in Sé, Historic Center of São Paulo. To get to me, there are several bus lines and that facilitate access.
 - 😄 Pronouns: Him his
-- ⚡ Fun fact: I have a cleaning craze.
+  - ⚡ Fun fact: I have a 
+  <div style="color:red">cleaning craze</div>.
 
 
 
