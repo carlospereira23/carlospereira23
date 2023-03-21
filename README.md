@@ -1,5 +1,5 @@
 # Hello, I´m Carlos Pereira. Welcome!  
-## *Eu perdi o medo da chuva pra poder reencontrar, a metade dessa vida que não me deixaram usar*      :rotating_light: <h2>
+## *Eu perdi o medo da chuva pra poder reencontrar, a metade dessa vida que não me deixaram usar*      
 
 **carlospereira23/carlospereira23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
